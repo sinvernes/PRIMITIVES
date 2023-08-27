@@ -3,7 +3,7 @@ public class Main {
 
         int amount = 18499;
         int rubles = 20;
-        int bonus = amout / rubles;
+        int bonus = amount / rubles;
 
         System.out.println ("Бонусные мили:" + bonus);
     }
